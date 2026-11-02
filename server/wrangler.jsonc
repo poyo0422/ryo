@@ -1,0 +1,7 @@
+{
+  "name": "fx-journal-sync",
+  "main": "worker.js",
+  "compatibility_date": "2026-01-01",
+  "vars": { "ALLOWED_ORIGIN": "https://poyo0422.github.io" },
+  "d1_databases": [{ "binding": "DB", "database_name": "fx-journal", "database_id": "REPLACE_WITH_DATABASE_ID" }]
+}
